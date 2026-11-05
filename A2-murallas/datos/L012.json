@@ -1,0 +1,559 @@
+{
+ "version": 1,
+ "leccion": "L012",
+ "titulo": "Repaso Lección 12 · Construyendo a Sansón con figuras geométricas",
+ "bancos": {
+  "leccion": [
+   {
+    "pregunta": "¿Cuáles son las 3 figuras geométricas básicas del dibujo cartoon?",
+    "respuestas": [
+     "Círculo, cuadrado y triángulo",
+     "Óvalo, pentágono y cruz simple",
+     "Círculo, estrella y rombo grande"
+    ],
+    "correcta": "Círculo, cuadrado y triángulo"
+   },
+   {
+    "pregunta": "¿Qué puede resultar de combinar el círculo con el cuadrado?",
+    "respuestas": [
+     "Una cabeza cartoon",
+     "Un paisaje",
+     "Una paleta de colores"
+    ],
+    "correcta": "Una cabeza cartoon"
+   },
+   {
+    "pregunta": "La combinación de círculo y cuadrado sirve de base para...",
+    "respuestas": [
+     "Una foto real",
+     "Un mapa del tesoro",
+     "Una calaca cartoon"
+    ],
+    "correcta": "Una calaca cartoon"
+   },
+   {
+    "pregunta": "Para analizar una referencia, ¿qué se hace con ella?",
+    "respuestas": [
+     "Se gira al revés y se guarda",
+     "Se borra por completo del lienzo",
+     "Se le baja la opacidad"
+    ],
+    "correcta": "Se le baja la opacidad"
+   },
+   {
+    "pregunta": "¿Por qué se le baja la opacidad a la referencia?",
+    "respuestas": [
+     "Para analizar su construcción sobre ella",
+     "Para cambiarle el color a todo el dibujo",
+     "Para que ocupe menos espacio en el lienzo"
+    ],
+    "correcta": "Para analizar su construcción sobre ella"
+   },
+   {
+    "pregunta": "En el Sansón circular, los ojos, la nariz y la barba son...",
+    "respuestas": [
+     "Óvalos y círculos",
+     "Triángulos puntiagudos",
+     "Rectángulos grandes"
+    ],
+    "correcta": "Óvalos y círculos"
+   },
+   {
+    "pregunta": "Un personaje hecho de círculos y óvalos tiene un aspecto...",
+    "respuestas": [
+     "Peligroso y malvado",
+     "Suave y amistoso",
+     "Duro como una roca"
+    ],
+    "correcta": "Suave y amistoso"
+   },
+   {
+    "pregunta": "¿Qué puedes sacar de la referencia analizada?",
+    "respuestas": [
+     "Una canción para el video",
+     "Un diagrama del personaje",
+     "Un video completamente nuevo"
+    ],
+    "correcta": "Un diagrama del personaje"
+   },
+   {
+    "pregunta": "¿Qué estilo dan los rectángulos y cuadrados a un personaje?",
+    "respuestas": [
+     "Ágil, peligroso y veloz de más",
+     "Estable, fuerte e inamovible",
+     "Suave, redondeado y amistoso"
+    ],
+    "correcta": "Estable, fuerte e inamovible"
+   },
+   {
+    "pregunta": "¿A qué se parece el Sansón rectangular, según la lección?",
+    "respuestas": [
+     "A una roca",
+     "A una pelota",
+     "A una nube"
+    ],
+    "correcta": "A una roca"
+   },
+   {
+    "pregunta": "Los contornos de un personaje pueden ser...",
+    "respuestas": [
+     "Solo rectos y sin curvas ni más",
+     "Solo suaves y redondeados siempre",
+     "Más suaves o más rectilíneos"
+    ],
+    "correcta": "Más suaves o más rectilíneos"
+   },
+   {
+    "pregunta": "¿Cómo está formada la nariz del Sansón rectangular?",
+    "respuestas": [
+     "Por un círculo pequeño",
+     "Por un triángulo largo",
+     "Por dos rectángulos"
+    ],
+    "correcta": "Por dos rectángulos"
+   },
+   {
+    "pregunta": "En el personaje de rectángulos, ¿las líneas deben ser perfectamente rectas?",
+    "respuestas": [
+     "Sí, siempre perfectas",
+     "No, pueden redondearse un poco",
+     "No deben existir líneas"
+    ],
+    "correcta": "No, pueden redondearse un poco"
+   },
+   {
+    "pregunta": "¿Qué figura se usa para personajes peligrosos, ágiles o malvados?",
+    "respuestas": [
+     "El cuadrado",
+     "El círculo",
+     "El triángulo"
+    ],
+    "correcta": "El triángulo"
+   },
+   {
+    "pregunta": "¿Cuál es la figura por excelencia para un villano?",
+    "respuestas": [
+     "El triángulo",
+     "El óvalo",
+     "El círculo"
+    ],
+    "correcta": "El triángulo"
+   },
+   {
+    "pregunta": "¿Cómo es el estilo del Sansón triangular comparado con el anterior?",
+    "respuestas": [
+     "Es idéntico",
+     "No tiene estilo",
+     "Varía mucho"
+    ],
+    "correcta": "Varía mucho"
+   },
+   {
+    "pregunta": "¿Qué figura elegirías para un personaje amistoso?",
+    "respuestas": [
+     "El triángulo",
+     "Una línea recta",
+     "El círculo"
+    ],
+    "correcta": "El círculo"
+   },
+   {
+    "pregunta": "¿Qué figura elegirías para un personaje fuerte e inamovible?",
+    "respuestas": [
+     "El triángulo",
+     "El círculo",
+     "El rectángulo"
+    ],
+    "correcta": "El rectángulo"
+   },
+   {
+    "pregunta": "Si quieres dibujar un villano ágil, ¿qué figura usarías más?",
+    "respuestas": [
+     "Cuadrados",
+     "Triángulos",
+     "Círculos"
+    ],
+    "correcta": "Triángulos"
+   },
+   {
+    "pregunta": "¿Dónde conviene analizar la construcción de la referencia?",
+    "respuestas": [
+     "En una capa aparte",
+     "Dentro de la referencia",
+     "Fuera de Krita"
+    ],
+    "correcta": "En una capa aparte"
+   },
+   {
+    "pregunta": "¿Qué recomienda el resumen de la lección?",
+    "respuestas": [
+     "Copiar solo fotos",
+     "Memorizar los colores",
+     "Hacer muchos ejercicios con círculos, cuadrados y triángulos"
+    ],
+    "correcta": "Hacer muchos ejercicios con círculos, cuadrados y triángulos"
+   },
+   {
+    "pregunta": "¿En qué programa practicas las figuras geométricas?",
+    "respuestas": [
+     "Un procesador de texto",
+     "Krita",
+     "Una hoja de cálculo"
+    ],
+    "correcta": "Krita"
+   },
+   {
+    "pregunta": "¿En qué quieres convertirte con tus ejercicios de figuras?",
+    "respuestas": [
+     "En un experto en música",
+     "En un «Máster» de las figuras geométricas básicas",
+     "En un fotógrafo"
+    ],
+    "correcta": "En un «Máster» de las figuras geométricas básicas"
+   },
+   {
+    "pregunta": "¿Qué es el primer paso en el diseño de personajes cartoon?",
+    "respuestas": [
+     "Imprimir el dibujo",
+     "Dominar las figuras geométricas básicas",
+     "Elegir el título del juego"
+    ],
+    "correcta": "Dominar las figuras geométricas básicas"
+   },
+   {
+    "pregunta": "¿Cuántas figuras geométricas básicas presenta la lección?",
+    "respuestas": [
+     "Cinco",
+     "Tres",
+     "Diez"
+    ],
+    "correcta": "Tres"
+   },
+   {
+    "pregunta": "¿Qué te permite combinar las figuras básicas?",
+    "respuestas": [
+     "Dibujar lo que quieras en papel o en digital",
+     "Cambiar de programa",
+     "Solo dibujar casas"
+    ],
+    "correcta": "Dibujar lo que quieras en papel o en digital"
+   },
+   {
+    "pregunta": "¿Cuál NO es una de las tres figuras básicas de la lección?",
+    "respuestas": [
+     "La estrella",
+     "El círculo",
+     "El triángulo"
+    ],
+    "correcta": "La estrella"
+   },
+   {
+    "pregunta": "¿Con qué figuras se construye un cuerpo de aspecto suave?",
+    "respuestas": [
+     "Con óvalos",
+     "Con rectas largas",
+     "Con triángulos"
+    ],
+    "correcta": "Con óvalos"
+   },
+   {
+    "pregunta": "¿De qué depende elegir la figura del personaje?",
+    "respuestas": [
+     "Del color del lienzo",
+     "De lo que quieres expresar en su historia",
+     "Del tamaño de la pantalla"
+    ],
+    "correcta": "De lo que quieres expresar en su historia"
+   },
+   {
+    "pregunta": "¿Qué personaje se usa en la lección para practicar la construcción?",
+    "respuestas": [
+     "Un dragón",
+     "Sansón",
+     "Un robot"
+    ],
+    "correcta": "Sansón"
+   }
+  ],
+  "historia": [
+   {
+    "pregunta": "¿Cómo desapareció el ángel después de la ofrenda de Manoa?",
+    "respuestas": [
+     "Subió en la llama del altar",
+     "Se escondió dentro de una cueva",
+     "Se fue caminando por el camino"
+    ],
+    "correcta": "Subió en la llama del altar"
+   },
+   {
+    "pregunta": "¿Quién tranquilizó a Manoa cuando temió morir?",
+    "respuestas": [
+     "Un sacerdote",
+     "Su esposa",
+     "El ángel"
+    ],
+    "correcta": "Su esposa"
+   },
+   {
+    "pregunta": "¿Qué nombre puso la madre al niño al nacer?",
+    "respuestas": [
+     "Gedeón",
+     "Sansón",
+     "Samuel"
+    ],
+    "correcta": "Sansón"
+   },
+   {
+    "pregunta": "¿Dónde empezó el Espíritu del Señor a agitar a Sansón?",
+    "respuestas": [
+     "En Siloh de Efraín",
+     "En Mahané-dan",
+     "En Betel del norte"
+    ],
+    "correcta": "En Mahané-dan"
+   },
+   {
+    "pregunta": "¿Qué querían los padres de Sansón en vez de una filistea?",
+    "respuestas": [
+     "Que no se casara nunca jamás",
+     "Una princesa de tierra extranjera",
+     "Una mujer de su propio pueblo"
+    ],
+    "correcta": "Una mujer de su propio pueblo"
+   },
+   {
+    "pregunta": "¿Cómo mató Sansón al león?",
+    "respuestas": [
+     "Con una espada muy afilada",
+     "Con una piedra grande",
+     "Con las manos, sin arma"
+    ],
+    "correcta": "Con las manos, sin arma"
+   },
+   {
+    "pregunta": "¿Cuál era el acertijo de Sansón?",
+    "respuestas": [
+     "Qué pesa más, el oro o el plomo del templo",
+     "Del devorador salió comida y del fuerte dulzura",
+     "Cuántas estrellas hay en todo el cielo de la noche"
+    ],
+    "correcta": "Del devorador salió comida y del fuerte dulzura"
+   },
+   {
+    "pregunta": "¿Cuál era la respuesta del acertijo?",
+    "respuestas": [
+     "La miel y el león",
+     "El pan y el vino nuevo",
+     "El sol y la luna llena"
+    ],
+    "correcta": "La miel y el león"
+   },
+   {
+    "pregunta": "¿Qué premio ofreció Sansón por resolver el acertijo?",
+    "respuestas": [
+     "Una casa nueva con huerto grande",
+     "Un rebaño completo de ovejas gordas",
+     "Treinta camisas y treinta vestidos"
+    ],
+    "correcta": "Treinta camisas y treinta vestidos"
+   },
+   {
+    "pregunta": "¿Qué pasó con la esposa de Sansón después de la boda?",
+    "respuestas": [
+     "Se fue con Sansón a vivir a Gaza",
+     "Se hizo juez de todo el pueblo",
+     "Fue dada a un compañero de él"
+    ],
+    "correcta": "Fue dada a un compañero de él"
+   },
+   {
+    "pregunta": "¿En qué época visitó Sansón a su esposa con un cabrito?",
+    "respuestas": [
+     "En la fiesta de la luna",
+     "En la siega del trigo",
+     "En la nevada"
+    ],
+    "correcta": "En la siega del trigo"
+   },
+   {
+    "pregunta": "¿Qué quemaron las zorras con antorchas?",
+    "respuestas": [
+     "Las puertas de Gaza y más",
+     "El templo y las murallas",
+     "Mieses, viñas y olivares"
+    ],
+    "correcta": "Mieses, viñas y olivares"
+   },
+   {
+    "pregunta": "¿Qué hicieron los filisteos a la esposa de Sansón y a su padre?",
+    "respuestas": [
+     "Los quemaron",
+     "Los desterraron",
+     "Los premiaron"
+    ],
+    "correcta": "Los quemaron"
+   },
+   {
+    "pregunta": "¿Dónde se escondió Sansón de los filisteos?",
+    "respuestas": [
+     "En el mar Rojo",
+     "En el monte Sinaí",
+     "En la peña de Etam"
+    ],
+    "correcta": "En la peña de Etam"
+   },
+   {
+    "pregunta": "¿Cuántos hombres de Judá bajaron a atar a Sansón?",
+    "respuestas": [
+     "Cien",
+     "Tres mil",
+     "Trescientos"
+    ],
+    "correcta": "Tres mil"
+   },
+   {
+    "pregunta": "¿Con qué ataron a Sansón los hombres de Judá?",
+    "respuestas": [
+     "Con dos cuerdas nuevas",
+     "Con ramas de palma",
+     "Con cadenas de bronce"
+    ],
+    "correcta": "Con dos cuerdas nuevas"
+   },
+   {
+    "pregunta": "¿Qué pasó con las cuerdas que ataban a Sansón?",
+    "respuestas": [
+     "Se rompieron como lino quemado",
+     "Resistieron toda la noche",
+     "Se las quitó un ángel"
+    ],
+    "correcta": "Se rompieron como lino quemado"
+   },
+   {
+    "pregunta": "¿Qué nombre recibió el lugar donde Sansón arrojó la quijada?",
+    "respuestas": [
+     "Ramat-lehi",
+     "Hebrón",
+     "Betel"
+    ],
+    "correcta": "Ramat-lehi"
+   },
+   {
+    "pregunta": "¿Qué le dio Dios a Sansón cuando tuvo mucha sed?",
+    "respuestas": [
+     "Pan del cielo",
+     "Agua de una cavidad de la peña",
+     "Vino de una fiesta"
+    ],
+    "correcta": "Agua de una cavidad de la peña"
+   },
+   {
+    "pregunta": "¿A qué hora de la noche se levantó Sansón en Gaza?",
+    "respuestas": [
+     "A medianoche",
+     "Al atardecer",
+     "Al amanecer"
+    ],
+    "correcta": "A medianoche"
+   },
+   {
+    "pregunta": "¿Frente a qué ciudad dejó Sansón las puertas de Gaza?",
+    "respuestas": [
+     "Hebrón",
+     "Belén",
+     "Nazaret"
+    ],
+    "correcta": "Hebrón"
+   },
+   {
+    "pregunta": "¿Quiénes buscaron a Dalila para descubrir el secreto de Sansón?",
+    "respuestas": [
+     "Los jueces de Israel",
+     "Los príncipes de los filisteos",
+     "Los hermanos de Sansón"
+    ],
+    "correcta": "Los príncipes de los filisteos"
+   },
+   {
+    "pregunta": "¿Cuántas veces engañó Sansón a Dalila antes de decir la verdad?",
+    "respuestas": [
+     "Tres veces",
+     "Diez veces",
+     "Una vez"
+    ],
+    "correcta": "Tres veces"
+   },
+   {
+    "pregunta": "¿Qué secreto reveló finalmente Sansón?",
+    "respuestas": [
+     "Dónde escondía su tesoro",
+     "Que era nazareo y nunca se cortó el cabello",
+     "El camino a su casa"
+    ],
+    "correcta": "Que era nazareo y nunca se cortó el cabello"
+   },
+   {
+    "pregunta": "¿Qué le hicieron los filisteos a Sansón al capturarlo?",
+    "respuestas": [
+     "Lo dejaron libre",
+     "Le sacaron los ojos",
+     "Lo coronaron rey"
+    ],
+    "correcta": "Le sacaron los ojos"
+   },
+   {
+    "pregunta": "¿Qué trabajo hacía Sansón en la cárcel?",
+    "respuestas": [
+     "Construir muros",
+     "Cuidar ovejas",
+     "Moler en el molino"
+    ],
+    "correcta": "Moler en el molino"
+   },
+   {
+    "pregunta": "¿A qué dios ofrecieron una gran fiesta los filisteos?",
+    "respuestas": [
+     "A Dagón",
+     "A Baal-Peor",
+     "A Jehová"
+    ],
+    "correcta": "A Dagón"
+   },
+   {
+    "pregunta": "¿Cuántas personas había en el terrado del templo cuando cayó?",
+    "respuestas": [
+     "Unas tres mil",
+     "Unas diez",
+     "Unas cien"
+    ],
+    "correcta": "Unas tres mil"
+   },
+   {
+    "pregunta": "¿Qué columnas empujó Sansón al final?",
+    "respuestas": [
+     "Las del medio, que sostenían el templo",
+     "Las de la entrada",
+     "Las del jardín"
+    ],
+    "correcta": "Las del medio, que sostenían el templo"
+   },
+   {
+    "pregunta": "¿Dónde fue sepultado Sansón?",
+    "respuestas": [
+     "En Gaza",
+     "Entre Zora y Estaol, en el sepulcro de Manoa",
+     "En el desierto de Sin"
+    ],
+    "correcta": "Entre Zora y Estaol, en el sepulcro de Manoa"
+   }
+  ]
+ },
+ "proporcion": {
+  "leccion": 4,
+  "historia": 1
+ },
+ "aciertos_para_ganar": 5,
+ "vidas": 3,
+ "salir_url": "https://www.escuelaasomatoi.com/viewerpasoscartoon/paso-6-leccion-12-curso-dibujo-cartoon",
+ "skin": "murallas"
+}

@@ -1,0 +1,235 @@
+{
+ "version": 1,
+ "leccion": "L06",
+ "titulo": "Repaso Lección 06 · Cambiar de color y usar el borrador en Krita",
+ "bancos": {
+  "leccion": [
+   {
+    "pregunta": "¿Qué dos cosas aprendes a hacer en esta lección de Krita?",
+    "respuestas": [
+     "Pasar del trazo al borrador y cambiar el color",
+     "Guardar el dibujo y compartirlo en línea",
+     "Instalar Krita y abrir un archivo"
+    ],
+    "correcta": "Pasar del trazo al borrador y cambiar el color"
+   },
+   {
+    "pregunta": "Si tocas la superficie del lienzo con la brocha, ¿qué se genera?",
+    "respuestas": [
+     "Un lienzo nuevo",
+     "Un trazo",
+     "Una capa de texto"
+    ],
+    "correcta": "Un trazo"
+   },
+   {
+    "pregunta": "¿En qué parte de la pantalla está el triángulo de colores?",
+    "respuestas": [
+     "Esquina inferior izquierda",
+     "Centro del lienzo",
+     "Esquina superior derecha"
+    ],
+    "correcta": "Esquina superior derecha"
+   },
+   {
+    "pregunta": "¿Qué herramienta te permite desplazarte por los diferentes colores?",
+    "respuestas": [
+     "El círculo cromático",
+     "El panel de capas",
+     "La barra de menús del programa"
+    ],
+    "correcta": "El círculo cromático"
+   },
+   {
+    "pregunta": "Para elegir un color dentro del triángulo, ¿qué haces?",
+    "respuestas": [
+     "Escribo el nombre del color",
+     "Doy clic sobre el color",
+     "Cierro y vuelvo a abrir Krita"
+    ],
+    "correcta": "Doy clic sobre el color"
+   },
+   {
+    "pregunta": "Si eliges un tono fucsia en el triángulo, ¿de qué color sale el nuevo trazo?",
+    "respuestas": [
+     "Azul",
+     "Verde",
+     "Fucsia"
+    ],
+    "correcta": "Fucsia"
+   },
+   {
+    "pregunta": "Si quieres un trazo de otro color, ¿qué debes cambiar antes de dibujar?",
+    "respuestas": [
+     "El color de la brocha",
+     "El nombre del archivo",
+     "El tamaño de la ventana"
+    ],
+    "correcta": "El color de la brocha"
+   },
+   {
+    "pregunta": "¿En qué margen de la pantalla están los íconos de brochas y lápices?",
+    "respuestas": [
+     "Margen izquierdo",
+     "Margen derecho",
+     "Parte inferior"
+    ],
+    "correcta": "Margen derecho"
+   },
+   {
+    "pregunta": "¿Qué ves en el margen derecho de Krita, según el video?",
+    "respuestas": [
+     "Solo una lista de archivos",
+     "Un reloj y un calendario",
+     "Íconos de diferentes brochas y lápices"
+    ],
+    "correcta": "Íconos de diferentes brochas y lápices"
+   },
+   {
+    "pregunta": "¿A qué herramienta se pasa desde la brocha genérica, de momento?",
+    "respuestas": [
+     "Al borrador",
+     "Al texto",
+     "Al zoom del lienzo"
+    ],
+    "correcta": "Al borrador"
+   },
+   {
+    "pregunta": "¿Para qué sirve la herramienta de borrador?",
+    "respuestas": [
+     "Para cambiar el color del lienzo",
+     "Para borrar los trazos que hiciste",
+     "Para crear imágenes nuevas"
+    ],
+    "correcta": "Para borrar los trazos que hiciste"
+   },
+   {
+    "pregunta": "¿Cómo sabes que el borrador ya está activo?",
+    "respuestas": [
+     "Suena un aviso en el programa",
+     "Se cierra el panel de brochas",
+     "Su ícono cambia a color azul"
+    ],
+    "correcta": "Su ícono cambia a color azul"
+   },
+   {
+    "pregunta": "¿Dónde encuentras la herramienta de borrador?",
+    "respuestas": [
+     "En el panel con los demás estilos de brochas",
+     "En el menú de ayuda",
+     "En la barra de título de la ventana"
+    ],
+    "correcta": "En el panel con los demás estilos de brochas"
+   },
+   {
+    "pregunta": "Con el borrador activo, ¿qué puedes hacer ahora?",
+    "respuestas": [
+     "Elegir un tamaño de lienzo",
+     "Borrar los trazos que creaste",
+     "Instalar otra versión de Krita"
+    ],
+    "correcta": "Borrar los trazos que creaste"
+   },
+   {
+    "pregunta": "¿Qué tonos recorre la persona del video en el círculo cromático?",
+    "respuestas": [
+     "Solo grises y negros",
+     "Únicamente amarillos",
+     "Rosados hasta el fucsia"
+    ],
+    "correcta": "Rosados hasta el fucsia"
+   },
+   {
+    "pregunta": "Ya cambiaste de color y borraste trazos. ¿Qué dominaste?",
+    "respuestas": [
+     "El selector de color y el borrador",
+     "Los filtros y las capas",
+     "El recorte y el texto"
+    ],
+    "correcta": "El selector de color y el borrador"
+   }
+  ],
+  "historia": [
+   {
+    "pregunta": "¿A qué pueblo filisteo bajó Sansón, donde vio a una mujer que le gustó?",
+    "respuestas": [
+     "Belén",
+     "Timnat",
+     "Jericó"
+    ],
+    "correcta": "Timnat"
+   },
+   {
+    "pregunta": "¿Quién anunció a los padres de Sansón que tendrían un hijo?",
+    "respuestas": [
+     "El ángel del Señor",
+     "Un sacerdote del templo",
+     "El profeta Samuel"
+    ],
+    "correcta": "El ángel del Señor"
+   },
+   {
+    "pregunta": "¿En qué valle vivía Dalila?",
+    "respuestas": [
+     "En el valle de Josafat",
+     "En el valle de Acor",
+     "En el valle de Sorec"
+    ],
+    "correcta": "En el valle de Sorec"
+   },
+   {
+    "pregunta": "¿Cuántas trenzas tenía Sansón en la cabeza?",
+    "respuestas": [
+     "Tres",
+     "Siete",
+     "Doce"
+    ],
+    "correcta": "Siete"
+   },
+   {
+    "pregunta": "¿Qué hizo Dalila mientras Sansón dormía sobre sus rodillas?",
+    "respuestas": [
+     "Llamó a un hombre para cortarle las trenzas",
+     "Le dio de beber agua",
+     "Le cantó una canción"
+    ],
+    "correcta": "Llamó a un hombre para cortarle las trenzas"
+   },
+   {
+    "pregunta": "¿Con qué ataron a Sansón los filisteos en la prisión de Gaza?",
+    "respuestas": [
+     "Con cuerdas de lino",
+     "Con ramas verdes",
+     "Con cadenas de bronce"
+    ],
+    "correcta": "Con cadenas de bronce"
+   },
+   {
+    "pregunta": "¿Qué empezó a crecer de nuevo en Sansón mientras estaba preso?",
+    "respuestas": [
+     "Su barba blanca",
+     "Su cabello",
+     "Un árbol en su celda"
+    ],
+    "correcta": "Su cabello"
+   },
+   {
+    "pregunta": "¿Quiénes celebraron en el templo de Dagón la captura de Sansón?",
+    "respuestas": [
+     "Los filisteos",
+     "Los egipcios",
+     "Los levitas"
+    ],
+    "correcta": "Los filisteos"
+   }
+  ]
+ },
+ "proporcion": {
+  "leccion": 4,
+  "historia": 1
+ },
+ "aciertos_para_ganar": 5,
+ "vidas": 3,
+ "salir_url": "https://www.escuelaasomatoi.com/viewerpasoscartoon/paso-5-leccion-6-curso-dibujo-cartoon",
+ "skin": "ciudad"
+}

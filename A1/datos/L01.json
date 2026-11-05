@@ -1,0 +1,307 @@
+{
+ "version": 1,
+ "leccion": "L01",
+ "titulo": "Repaso Lección 01 · Instalar Krita en Windows",
+ "bancos": {
+  "leccion": [
+   {
+    "pregunta": "¿Cuál es la dirección web oficial para descargar Krita?",
+    "respuestas": [
+     "https://krita.org/es/",
+     "www.krita-draw.com",
+     "https://descargar.krita.net"
+    ],
+    "correcta": "https://krita.org/es/"
+   },
+   {
+    "pregunta": "¿En qué carpeta de Windows se guarda usualmente el instalador por defecto?",
+    "respuestas": [
+     "Descargas",
+     "Archivos de Programa",
+     "Papelera de reciclaje"
+    ],
+    "correcta": "Descargas"
+   },
+   {
+    "pregunta": "¿Qué tipo de archivo es comúnmente el instalador de Krita en Windows?",
+    "respuestas": [
+     "Un ejecutable (.exe)",
+     "Un archivo de texto (.txt)",
+     "Una imagen (.png)"
+    ],
+    "correcta": "Un ejecutable (.exe)"
+   },
+   {
+    "pregunta": "Para iniciar la instalación, ¿qué acción realizas sobre el archivo descargado?",
+    "respuestas": [
+     "Doble clic",
+     "Clic derecho y \"Eliminar\"",
+     "Arrastrar a la papelera"
+    ],
+    "correcta": "Doble clic"
+   },
+   {
+    "pregunta": "¿Qué es lo primero que debes hacer con los términos de uso durante la instalación?",
+    "respuestas": [
+     "Aceptarlos",
+     "Reescribirlos",
+     "Imprimirlos y enviarlos por correo"
+    ],
+    "correcta": "Aceptarlos"
+   },
+   {
+    "pregunta": "¿Qué ubicación se recomienda para instalar los archivos del programa?",
+    "respuestas": [
+     "La recomendada por defecto",
+     "La carpeta de música",
+     "Una carpeta temporal"
+    ],
+    "correcta": "La recomendada por defecto"
+   },
+   {
+    "pregunta": "Durante la instalación, ¿qué componente permite ver miniaturas de archivos Krita en Windows?",
+    "respuestas": [
+     "Shell Extension",
+     "Krita Brush Cleaner",
+     "Windows Media Player"
+    ],
+    "correcta": "Shell Extension"
+   },
+   {
+    "pregunta": "¿Qué opción facilita abrir el programa rápidamente desde la pantalla principal?",
+    "respuestas": [
+     "Crear un ícono en el escritorio",
+     "Ocultar el programa",
+     "Desactivar accesos directos"
+    ],
+    "correcta": "Crear un ícono en el escritorio"
+   },
+   {
+    "pregunta": "¿Qué botón permite avanzar entre las distintas etapas del instalador?",
+    "respuestas": [
+     "Siguiente / Next",
+     "Cancelar / Cancel",
+     "Atrás / Back"
+    ],
+    "correcta": "Siguiente / Next"
+   },
+   {
+    "pregunta": "Una vez finalizada la barra de progreso de instalación, ¿qué suele indicar el sistema?",
+    "respuestas": [
+     "Completado / Listo",
+     "Error 404",
+     "Cargando internet"
+    ],
+    "correcta": "Completado / Listo"
+   },
+   {
+    "pregunta": "¿Es necesario pagar una licencia para instalar y usar Krita legalmente?",
+    "respuestas": [
+     "No, es gratis",
+     "Sí, mensualidad",
+     "Sí, por dibujo"
+    ],
+    "correcta": "No, es gratis"
+   },
+   {
+    "pregunta": "Si no quieres instalar el programa, ¿qué versión alternativa puedes descargar?",
+    "respuestas": [
+     "Versión Portable (Zip)",
+     "Versión de papel",
+     "Versión de solo lectura"
+    ],
+    "correcta": "Versión Portable (Zip)"
+   },
+   {
+    "pregunta": "¿Qué arquitectura de sistema operativo requieren las versiones modernas de Krita?",
+    "respuestas": [
+     "64-bits",
+     "16-bits",
+     "Android"
+    ],
+    "correcta": "64-bits"
+   },
+   {
+    "pregunta": "¿Qué se recomienda hacer antes de instalar si ya tienes una versión muy antigua abierta?",
+    "respuestas": [
+     "Cerrar el programa antiguo",
+     "Abrir 10 archivos",
+     "Desconectar el monitor"
+    ],
+    "correcta": "Cerrar el programa antiguo"
+   },
+   {
+    "pregunta": "¿Quién desarrolla y mantiene el instalador y el programa Krita?",
+    "respuestas": [
+     "Fundación Krita (KDE)",
+     "Microsoft",
+     "Adobe"
+    ],
+    "correcta": "Fundación Krita (KDE)"
+   },
+   {
+    "pregunta": "Después de instalar, ¿cómo verificas que el programa funciona?",
+    "respuestas": [
+     "Abriéndolo por primera vez",
+     "Reiniciando router",
+     "Borrando instalador"
+    ],
+    "correcta": "Abriéndolo por primera vez"
+   }
+  ],
+  "historia": [
+   {
+    "pregunta": "¿En qué libro de la Biblia se narra la historia de Sansón?",
+    "respuestas": [
+     "Jueces",
+     "Éxodo",
+     "Reyes"
+    ],
+    "correcta": "Jueces"
+   },
+   {
+    "pregunta": "¿Cómo se llamaba el padre de Sansón?",
+    "respuestas": [
+     "Manoa",
+     "Abraham",
+     "David"
+    ],
+    "correcta": "Manoa"
+   },
+   {
+    "pregunta": "¿Qué voto especial tenía Sansón desde su nacimiento?",
+    "respuestas": [
+     "Nazareo",
+     "Levita",
+     "Fariseo"
+    ],
+    "correcta": "Nazareo"
+   },
+   {
+    "pregunta": "¿Qué prohibición tenía Sansón con respecto a su apariencia?",
+    "respuestas": [
+     "No cortarse el cabello",
+     "No usar sandalias",
+     "No usar túnicas rojas"
+    ],
+    "correcta": "No cortarse el cabello"
+   },
+   {
+    "pregunta": "¿A qué animal mató Sansón con sus propias manos en el camino a Timnat?",
+    "respuestas": [
+     "Un león joven",
+     "Un oso",
+     "Un lobo"
+    ],
+    "correcta": "Un león joven"
+   },
+   {
+    "pregunta": "¿Qué encontró Sansón dentro del cadáver del león tiempo después?",
+    "respuestas": [
+     "Miel y abejas",
+     "Oro",
+     "Un mapa"
+    ],
+    "correcta": "Miel y abejas"
+   },
+   {
+    "pregunta": "¿Qué arma improvisada usó para derrotar a 1000 filisteos?",
+    "respuestas": [
+     "Una quijada de burro",
+     "Una espada oxidada",
+     "Una honda de piedra"
+    ],
+    "correcta": "Una quijada de burro"
+   },
+   {
+    "pregunta": "¿Qué animales usó Sansón para quemar los campos de los filisteos?",
+    "respuestas": [
+     "300 zorras",
+     "100 caballos",
+     "50 leones"
+    ],
+    "correcta": "300 zorras"
+   },
+   {
+    "pregunta": "¿Qué quiere Dios que le entregues de ti?",
+    "respuestas": [
+     "Tu vida y tu corazón",
+     "Tu dinero",
+     "Que a veces le ores"
+    ],
+    "correcta": "Tu vida y tu corazón"
+   },
+   {
+    "pregunta": "¿Cómo se llamaba la mujer que traicionó a Sansón para descubrir su fuerza?",
+    "respuestas": [
+     "Dalila",
+     "Rut",
+     "Ester"
+    ],
+    "correcta": "Dalila"
+   },
+   {
+    "pregunta": "¿Qué le hicieron los filisteos a Sansón cuando lograron capturarlo?",
+    "respuestas": [
+     "Le sacaron los ojos",
+     "Le cortaron una mano",
+     "Le quitaron la voz"
+    ],
+    "correcta": "Le sacaron los ojos"
+   },
+   {
+    "pregunta": "¿A qué dios adoraban los filisteos en el templo donde llevaron a Sansón?",
+    "respuestas": [
+     "Dagón",
+     "Baal",
+     "Moloc"
+    ],
+    "correcta": "Dagón"
+   },
+   {
+    "pregunta": "¿Cuál era la verdadera fuente de la fuerza de Sansón?",
+    "respuestas": [
+     "El Espíritu de Dios",
+     "Su cabello mágico",
+     "Su entrenamiento"
+    ],
+    "correcta": "El Espíritu de Dios"
+   },
+   {
+    "pregunta": "¿Qué trabajo forzaron a hacer a Sansón en la prisión?",
+    "respuestas": [
+     "Moler grano en un molino",
+     "Construir muros",
+     "Servir vino"
+    ],
+    "correcta": "Moler grano en un molino"
+   },
+   {
+    "pregunta": "¿Cuál fue el último acto de Sansón antes de morir?",
+    "respuestas": [
+     "Derribar las columnas del templo",
+     "Escapar de la cárcel",
+     "Escribir una carta"
+    ],
+    "correcta": "Derribar las columnas del templo"
+   },
+   {
+    "pregunta": "¿Cuántos años juzgó Sansón a Israel?",
+    "respuestas": [
+     "20 años",
+     "40 años",
+     "10 años"
+    ],
+    "correcta": "20 años"
+   }
+  ]
+ },
+ "proporcion": {
+  "leccion": 4,
+  "historia": 1
+ },
+ "aciertos_para_ganar": 5,
+ "vidas": 3,
+ "salir_url": "https://www.escuelaasomatoi.com/viewerpasoscartoon/paso-8-leccion-1-curso-dibujo-cartoon",
+ "skin": "vinedos"
+}

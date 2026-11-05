@@ -1,0 +1,559 @@
+{
+ "version": 1,
+ "leccion": "L016",
+ "titulo": "Repaso Lección 16 · Creador de personajes y de personalidades",
+ "bancos": {
+  "leccion": [
+   {
+    "pregunta": "¿Con qué se relaciona que una historia o un personaje resulte interesante?",
+    "respuestas": [
+     "Con lo que el público conecta",
+     "Con usar muchos colores muy brillantes en el dibujo",
+     "Con dibujar personajes mucho más grandes que el fondo"
+    ],
+    "correcta": "Con lo que el público conecta"
+   },
+   {
+    "pregunta": "¿Con qué valores conecta esta escuela, según el video del paso 1?",
+    "respuestas": [
+     "Con las modas actuales de las redes sociales",
+     "Con valores tradicionales y enseñanzas bíblicas",
+     "Con los videojuegos de acción y ciencia ficción"
+    ],
+    "correcta": "Con valores tradicionales y enseñanzas bíblicas"
+   },
+   {
+    "pregunta": "Según el paso 1, ¿qué prefieren hacer algunas grandes empresas antes que hacer interesantes a sus personajes?",
+    "respuestas": [
+     "Dibujar solamente personajes de animales",
+     "Contar historias sin ningún personaje",
+     "Disfrazar de igualdad e inclusión a sus personajes"
+    ],
+    "correcta": "Disfrazar de igualdad e inclusión a sus personajes"
+   },
+   {
+    "pregunta": "¿Qué les pasó a esas empresas con ese enfoque, según el texto del paso 1?",
+    "respuestas": [
+     "Fracasaron en taquilla",
+     "Ganaron muchos premios de dibujo",
+     "Vendieron más entradas que nunca"
+    ],
+    "correcta": "Fracasaron en taquilla"
+   },
+   {
+    "pregunta": "¿Qué hay que lograr antes de empezar a hacer tu personaje?",
+    "respuestas": [
+     "Elegir el programa de dibujo más caro del mercado",
+     "Hacerlo interesante y darle una personalidad",
+     "Copiar exactamente a un personaje muy famoso"
+    ],
+    "correcta": "Hacerlo interesante y darle una personalidad"
+   },
+   {
+    "pregunta": "¿Cuántos instrumentos creó el profesor para ayudarte cuando te quedas sin ideas?",
+    "respuestas": [
+     "Cinco instrumentos complejos",
+     "Un solo instrumento enorme",
+     "Dos instrumentos sencillos"
+    ],
+    "correcta": "Dos instrumentos sencillos"
+   },
+   {
+    "pregunta": "¿Para qué sirven el creador de personajes y el creador de personalidades?",
+    "respuestas": [
+     "Para cuando te quedas sin ideas",
+     "Para colorear los dibujos más rápido",
+     "Para exportar tus dibujos a otros programas"
+    ],
+    "correcta": "Para cuando te quedas sin ideas"
+   },
+   {
+    "pregunta": "¿De qué color es la hoja de protagonistas en el creador de personajes?",
+    "respuestas": [
+     "Verde fuerte",
+     "Amarilla",
+     "Azul claro"
+    ],
+    "correcta": "Amarilla"
+   },
+   {
+    "pregunta": "¿Qué tiene la hoja de protagonistas del creador de personajes?",
+    "respuestas": [
+     "Nombres de criaturas y de características",
+     "Nombres de colores y de herramientas de Krita",
+     "Nombres de oficios y trabajos"
+    ],
+    "correcta": "Nombres de oficios y trabajos"
+   },
+   {
+    "pregunta": "¿Qué tienen las columnas de la hoja verde del creador de personajes?",
+    "respuestas": [
+     "Criaturas o características que puede tener el personaje",
+     "Oficios, profesiones y trabajos de los protagonistas",
+     "Nombres de paletas de color y de pinceles"
+    ],
+    "correcta": "Criaturas o características que puede tener el personaje"
+   },
+   {
+    "pregunta": "¿Cómo se usa el creador de personajes?",
+    "respuestas": [
+     "Eligiendo siempre la primera palabra de cada hoja",
+     "Combinando un oficio con una criatura o una característica",
+     "Borrando todas las palabras que no te gustan"
+    ],
+    "correcta": "Combinando un oficio con una criatura o una característica"
+   },
+   {
+    "pregunta": "¿Qué personaje imaginó el profesor al combinar «barrendero» con «gárgola»?",
+    "respuestas": [
+     "Una gárgola cocinera de un castillo encantado",
+     "Un barrendero invisible que limpia las nubes",
+     "Un barrendero gárgola con problemas por una nevada"
+    ],
+    "correcta": "Un barrendero gárgola con problemas por una nevada"
+   },
+   {
+    "pregunta": "¿Qué otro ejemplo de personaje poco habitual mencionó el profesor?",
+    "respuestas": [
+     "Un fotógrafo o una fotógrafa marciano",
+     "Un panadero que viaja en un globo gigante",
+     "Un bombero que vive bajo el mar helado"
+    ],
+    "correcta": "Un fotógrafo o una fotógrafa marciano"
+   },
+   {
+    "pregunta": "¿Qué atributo increíble propuso el profesor para Sansón como ejemplo?",
+    "respuestas": [
+     "Un Sansón robot",
+     "Un Sansón ogro",
+     "Un Sansón vampiro"
+    ],
+    "correcta": "Un Sansón ogro"
+   },
+   {
+    "pregunta": "¿Qué puedes hacer si quieres tener tu propio creador de personajes?",
+    "respuestas": [
+     "Usar solo las listas del profesor sin cambiarlas nunca",
+     "Pedirle a otra persona que las escriba siempre por ti",
+     "Hacer tu propia lista y aumentarla poco a poco"
+    ],
+    "correcta": "Hacer tu propia lista y aumentarla poco a poco"
+   },
+   {
+    "pregunta": "¿Qué toque puede dar el creador de personajes al guion que preparas?",
+    "respuestas": [
+     "Un toque divertido e inesperado",
+     "Un toque más serio y aburrido",
+     "Un toque idéntico al de otras historias"
+    ],
+    "correcta": "Un toque divertido e inesperado"
+   },
+   {
+    "pregunta": "¿De qué trata el paso 3 de la lección?",
+    "respuestas": [
+     "Del creador de personajes",
+     "Del creador de personalidades",
+     "De la cubeta de color y el cuentagotas"
+    ],
+    "correcta": "Del creador de personalidades"
+   },
+   {
+    "pregunta": "¿Por qué no basta con dibujar muy bien a un personaje?",
+    "respuestas": [
+     "Porque dibujar bien no importa en un cartoon moderno",
+     "Porque lo único que importa es el color de su ropa",
+     "Porque el público debe creer que el personaje tiene vida"
+    ],
+    "correcta": "Porque el público debe creer que el personaje tiene vida"
+   },
+   {
+    "pregunta": "¿Qué debe tener un personaje, además de verse bien?",
+    "respuestas": [
+     "Una personalidad propia y creíble",
+     "Una armadura brillante de metal",
+     "Un nombre muy largo y difícil de leer"
+    ],
+    "correcta": "Una personalidad propia y creíble"
+   },
+   {
+    "pregunta": "¿Qué tres listados tiene el creador de personalidades?",
+    "respuestas": [
+     "Oficios, criaturas y colores",
+     "Humores, inteligencias y emociones",
+     "Nombres, apellidos y edades"
+    ],
+    "correcta": "Humores, inteligencias y emociones"
+   },
+   {
+    "pregunta": "¿Cómo se usa el creador de personalidades?",
+    "respuestas": [
+     "Eligiendo todas las palabras de un solo listado",
+     "Escogiendo la primera palabra y descartando las demás",
+     "Tomando una palabra de cada listado y combinándolas"
+    ],
+    "correcta": "Tomando una palabra de cada listado y combinándolas"
+   },
+   {
+    "pregunta": "¿Qué personalidad se dio como ejemplo en el paso 3?",
+    "respuestas": [
+     "Indiferente, metódico pero apasionado",
+     "Alegre, dormilón y glotón",
+     "Tímido, ruidoso y muy distraído"
+    ],
+    "correcta": "Indiferente, metódico pero apasionado"
+   },
+   {
+    "pregunta": "¿Cómo describió el profesor a un Sansón con otra combinación de personalidad?",
+    "respuestas": [
+     "Callado, perezoso y miedoso",
+     "Eufórico, perspicaz e impulsivo",
+     "Frío, distraído y ahorrador"
+    ],
+    "correcta": "Eufórico, perspicaz e impulsivo"
+   },
+   {
+    "pregunta": "¿Qué puede pensar el público cuando conecta con un personaje?",
+    "respuestas": [
+     "Que quiere aprender a dibujar con trazos rápidos",
+     "Que desea comprar el personaje de colección",
+     "Que a él le ha pasado algo parecido"
+    ],
+    "correcta": "Que a él le ha pasado algo parecido"
+   },
+   {
+    "pregunta": "¿Qué tiene un personaje con vida, además de su dibujo?",
+    "respuestas": [
+     "Una historia de fondo y sus propios problemas",
+     "Un fondo de pantalla con muchos colores",
+     "Una caja de efectos de sonido aparte"
+    ],
+    "correcta": "Una historia de fondo y sus propios problemas"
+   },
+   {
+    "pregunta": "¿Cuántas palabras se toman de cada listado para armar una personalidad?",
+    "respuestas": [
+     "Todas las de cada listado",
+     "Una de cada listado",
+     "Ninguna, se inventan siempre desde cero"
+    ],
+    "correcta": "Una de cada listado"
+   },
+   {
+    "pregunta": "Según el paso 2, ¿qué te ayuda a hacer el creador de personajes?",
+    "respuestas": [
+     "Rellenar de color un dibujo con la cubeta",
+     "Cerrar las líneas abiertas de un dibujo",
+     "No quedarte sin ideas para crear personajes originales"
+    ],
+    "correcta": "No quedarte sin ideas para crear personajes originales"
+   },
+   {
+    "pregunta": "Según el paso 3, ¿qué debe lograr un personaje con personalidad?",
+    "respuestas": [
+     "Que sea creíble y cobre vida",
+     "Que sea idéntico a otro personaje conocido",
+     "Que no muestre emociones en ningún momento"
+    ],
+    "correcta": "Que sea creíble y cobre vida"
+   },
+   {
+    "pregunta": "¿Qué puede pasar si solo cuidas el dibujo y no la historia del personaje?",
+    "respuestas": [
+     "El público conectará siempre de inmediato",
+     "El público quizá no conecte con tu personaje",
+     "El personaje será mucho más fácil de animar"
+    ],
+    "correcta": "El público quizá no conecte con tu personaje"
+   },
+   {
+    "pregunta": "¿Qué significa que la lista de combinaciones pueda ser «infinita»?",
+    "respuestas": [
+     "Que solo existe una combinación correcta",
+     "Que el creador nunca termina de cargar",
+     "Que puedes crear muchas combinaciones nuevas"
+    ],
+    "correcta": "Que puedes crear muchas combinaciones nuevas"
+   }
+  ],
+  "historia": [
+   {
+    "pregunta": "¿Qué hizo Israel antes de que Jehová lo entregara a los filisteos?",
+    "respuestas": [
+     "Se negó a pagar tributo a los egipcios",
+     "Hizo lo malo ante los ojos de Jehová",
+     "Dejó de cultivar sus campos de trigo"
+    ],
+    "correcta": "Hizo lo malo ante los ojos de Jehová"
+   },
+   {
+    "pregunta": "¿De qué ciudad era Manoa, el padre de Sansón?",
+    "respuestas": [
+     "De la ciudad de Gaza",
+     "De la ciudad de Hebrón",
+     "De la ciudad de Zora"
+    ],
+    "correcta": "De la ciudad de Zora"
+   },
+   {
+    "pregunta": "¿Qué problema tenía la esposa de Manoa antes de que naciera Sansón?",
+    "respuestas": [
+     "Era estéril y no había tenido hijos",
+     "Estaba enferma de una fiebre muy fuerte",
+     "Era una extranjera de otra nación"
+    ],
+    "correcta": "Era estéril y no había tenido hijos"
+   },
+   {
+    "pregunta": "¿Qué dijo el ángel que haría el niño que nacería?",
+    "respuestas": [
+     "Construiría un gran templo en Silo",
+     "Comenzaría a salvar a Israel de los filisteos",
+     "Sería rey sobre todas las tribus"
+    ],
+    "correcta": "Comenzaría a salvar a Israel de los filisteos"
+   },
+   {
+    "pregunta": "¿Qué pidió Manoa a Dios en oración?",
+    "respuestas": [
+     "Que los filisteos dejaran de oprimir a Israel",
+     "Que su esposa tuviera mellizos",
+     "Que el varón de Dios les enseñara qué hacer con el niño"
+    ],
+    "correcta": "Que el varón de Dios les enseñara qué hacer con el niño"
+   },
+   {
+    "pregunta": "¿Dónde estaba la esposa de Manoa cuando el ángel se le apareció por segunda vez?",
+    "respuestas": [
+     "En el campo, sin su marido",
+     "Dentro de su casa, con su marido",
+     "En el santuario de la ciudad de Silo"
+    ],
+    "correcta": "En el campo, sin su marido"
+   },
+   {
+    "pregunta": "¿Qué respondió el ángel cuando Manoa le preguntó su nombre?",
+    "respuestas": [
+     "Que se llamaba Gabriel",
+     "Que su nombre era admirable",
+     "Que no tenía ningún nombre"
+    ],
+    "correcta": "Que su nombre era admirable"
+   },
+   {
+    "pregunta": "¿Qué ofreció Manoa a Jehová sobre una peña?",
+    "respuestas": [
+     "Un toro y diez palomas",
+     "Solamente trigo y aceite",
+     "Un cabrito y una ofrenda"
+    ],
+    "correcta": "Un cabrito y una ofrenda"
+   },
+   {
+    "pregunta": "¿Qué temió Manoa después de ver al ángel?",
+    "respuestas": [
+     "Morir, porque habían visto a Dios",
+     "Perder todos sus rebaños de cabras",
+     "Que los filisteos los atacaran esa noche"
+    ],
+    "correcta": "Morir, porque habían visto a Dios"
+   },
+   {
+    "pregunta": "¿Qué razonó la esposa de Manoa para tranquilizarlo?",
+    "respuestas": [
+     "Que el ángel ya se había ido para siempre del lugar",
+     "Que si Dios quisiera matarlos no habría aceptado la ofrenda",
+     "Que los vecinos los defenderían de cualquier peligro"
+    ],
+    "correcta": "Que si Dios quisiera matarlos no habría aceptado la ofrenda"
+   },
+   {
+    "pregunta": "¿Cuántos compañeros tomaron los filisteos para estar con Sansón en su boda?",
+    "respuestas": [
+     "Diez compañeros",
+     "Doce compañeros",
+     "Treinta compañeros"
+    ],
+    "correcta": "Treinta compañeros"
+   },
+   {
+    "pregunta": "¿Qué dijeron los padres de Sansón cuando él quiso casarse con una filistea?",
+    "respuestas": [
+     "Que buscara una esposa entre su propio pueblo",
+     "Que esperara a ser mayor para casarse",
+     "Que le pidiera permiso al sacerdote del pueblo"
+    ],
+    "correcta": "Que buscara una esposa entre su propio pueblo"
+   },
+   {
+    "pregunta": "¿Qué respondió Sansón sobre la mujer de Timna que le gustó?",
+    "respuestas": [
+     "«No quiero casarme con ninguna mujer»",
+     "«Tómame ésta, porque ella me agrada»",
+     "«Escoged vosotros la mujer que queráis»"
+    ],
+    "correcta": "«Tómame ésta, porque ella me agrada»"
+   },
+   {
+    "pregunta": "¿Qué hizo Sansón con la miel que sacó del cuerpo del león?",
+    "respuestas": [
+     "La vendió en el mercado de Timna",
+     "La derramó sobre la tierra del camino",
+     "La comió y dio también a sus padres"
+    ],
+    "correcta": "La comió y dio también a sus padres"
+   },
+   {
+    "pregunta": "¿Qué no les dijo Sansón a sus padres sobre la miel?",
+    "respuestas": [
+     "Que la había tomado del cuerpo del león",
+     "Que se la había regalado un pastor amigo",
+     "Que la había encontrado dentro de un templo"
+    ],
+    "correcta": "Que la había tomado del cuerpo del león"
+   },
+   {
+    "pregunta": "¿Cuánto tiempo lloró la esposa de Sansón delante de él durante la fiesta?",
+    "respuestas": [
+     "Solamente un día entero",
+     "Los siete días del banquete",
+     "Treinta días seguidos"
+    ],
+    "correcta": "Los siete días del banquete"
+   },
+   {
+    "pregunta": "¿Qué respondieron los filisteos al acertijo de Sansón?",
+    "respuestas": [
+     "«¿Qué es más fuerte que el hierro y veloz como el viento?»",
+     "«¿Qué es más grande que el mar y más alto que el monte?»",
+     "«¿Qué más dulce que la miel y más fuerte que el león?»"
+    ],
+    "correcta": "«¿Qué más dulce que la miel y más fuerte que el león?»"
+   },
+   {
+    "pregunta": "¿Qué le dijo Sansón a los que descubrieron su acertijo?",
+    "respuestas": [
+     "«Si no araseis con mi novilla, no habríais resuelto»",
+     "«Si no hubierais trabajado juntos, no lo habríais logrado»",
+     "«Si no me hubierais robado el manto, no lo habríais sabido»"
+    ],
+    "correcta": "«Si no araseis con mi novilla, no habríais resuelto»"
+   },
+   {
+    "pregunta": "¿Qué le ofreció el suegro a Sansón en lugar de su esposa?",
+    "respuestas": [
+     "Diez ovejas y un campo de cebada",
+     "Su hermana menor, que era más hermosa",
+     "Una casa grande en la ciudad de Zora"
+    ],
+    "correcta": "Su hermana menor, que era más hermosa"
+   },
+   {
+    "pregunta": "¿Qué pidió Sansón a los hombres de Judá antes de dejarse atar?",
+    "respuestas": [
+     "Que le dieran de comer y de beber primero",
+     "Que le dejaran ir a despedirse de sus padres",
+     "Que le juraran que ellos no lo matarían"
+    ],
+    "correcta": "Que le juraran que ellos no lo matarían"
+   },
+   {
+    "pregunta": "¿Qué dijo Sansón sobre lo que había hecho a los filisteos?",
+    "respuestas": [
+     "«Como ellos me hicieron, así les he hecho»",
+     "«No lo hice yo, lo hizo mi Dios en mi lugar»",
+     "«Lo hice sin querer, no sabía lo que pasaba»"
+    ],
+    "correcta": "«Como ellos me hicieron, así les he hecho»"
+   },
+   {
+    "pregunta": "¿Qué hizo Sansón cuando tuvo mucha sed después de la batalla?",
+    "respuestas": [
+     "Se fue en busca de los filisteos",
+     "Clamó a Jehová",
+     "Se quedó dormido junto al camino"
+    ],
+    "correcta": "Clamó a Jehová"
+   },
+   {
+    "pregunta": "¿Cómo esperaron los de Gaza a Sansón cuando supieron que estaba allí?",
+    "respuestas": [
+     "Lo siguieron en silencio hasta la casa de Dalila",
+     "Lo invitaron a una cena para atraparlo después",
+     "Lo acecharon toda la noche a la puerta de la ciudad"
+    ],
+    "correcta": "Lo acecharon toda la noche a la puerta de la ciudad"
+   },
+   {
+    "pregunta": "¿Qué sentía Sansón por Dalila, según la Biblia?",
+    "respuestas": [
+     "La amaba",
+     "La odiaba",
+     "Le era indiferente"
+    ],
+    "correcta": "La amaba"
+   },
+   {
+    "pregunta": "¿Qué gritaba Dalila cada vez que ataba a Sansón?",
+    "respuestas": [
+     "«¡Sansón, despierta que ya amaneció!»",
+     "«¡Sansón, los filisteos sobre ti!»",
+     "«¡Sansón, tu padre te está buscando!»"
+    ],
+    "correcta": "«¡Sansón, los filisteos sobre ti!»"
+   },
+   {
+    "pregunta": "¿Qué le reprochó Dalila a Sansón para que le dijera su secreto?",
+    "respuestas": [
+     "Que nunca le traía regalos de los viajes",
+     "Que pasaba demasiado tiempo con sus amigos",
+     "Que decía «te amo» sin que su corazón estuviera con ella"
+    ],
+    "correcta": "Que decía «te amo» sin que su corazón estuviera con ella"
+   },
+   {
+    "pregunta": "¿Sobre qué se durmió Sansón cuando le cortaron las siete guedejas del cabello?",
+    "respuestas": [
+     "Sobre las rodillas de Dalila",
+     "Sobre un montón de paja seca",
+     "Sobre una piedra a la orilla del río"
+    ],
+    "correcta": "Sobre las rodillas de Dalila"
+   },
+   {
+    "pregunta": "¿De qué no se dio cuenta Sansón después de perder su cabello?",
+    "respuestas": [
+     "De que los filisteos estaban rodeando la casa",
+     "De que Jehová ya se había apartado de él",
+     "De que Dalila ya había cobrado la plata"
+    ],
+    "correcta": "De que Jehová ya se había apartado de él"
+   },
+   {
+    "pregunta": "¿Quién guiaba de la mano a Sansón cuando estaba en el templo de Dagón?",
+    "respuestas": [
+     "Su propio padre Manoa",
+     "Uno de los príncipes filisteos",
+     "Un joven que lo acompañaba"
+    ],
+    "correcta": "Un joven que lo acompañaba"
+   },
+   {
+    "pregunta": "¿Qué pidió Sansón a Dios al final de su vida?",
+    "respuestas": [
+     "Que lo fortaleciera una vez más para vengarse de sus ojos",
+     "Que le devolviera la vista para ver el sol",
+     "Que lo llevara lejos de los filisteos sin pelear"
+    ],
+    "correcta": "Que lo fortaleciera una vez más para vengarse de sus ojos"
+   }
+  ]
+ },
+ "proporcion": {
+  "leccion": 4,
+  "historia": 1
+ },
+ "aciertos_para_ganar": 5,
+ "vidas": 3,
+ "salir_url": "https://www.escuelaasomatoi.com/viewerpasoscartoon/paso-3-leccion-16-curso-dibujo-cartoon",
+ "skin": "palacio"
+}

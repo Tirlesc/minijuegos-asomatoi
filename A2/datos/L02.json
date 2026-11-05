@@ -1,0 +1,307 @@
+{
+ "version": 1,
+ "leccion": "L02",
+ "titulo": "Repaso Lección 02 · Instalar Krita en Mac",
+ "bancos": {
+  "leccion": [
+   {
+    "pregunta": "¿Qué extensión tiene el archivo instalador de Krita para Mac?",
+    "respuestas": [
+     ".dmg (Imagen de disco)",
+     ".exe (Ejecutable)",
+     ".apk (Android Package)"
+    ],
+    "correcta": ".dmg (Imagen de disco)"
+   },
+   {
+    "pregunta": "¿Qué procesador debes elegir al descargar para Macs modernos (2020+)?",
+    "respuestas": [
+     "Apple Silicon (M1/M2/M3)",
+     "Intel 32-bits",
+     "PowerPC"
+    ],
+    "correcta": "Apple Silicon (M1/M2/M3)"
+   },
+   {
+    "pregunta": "Al abrir el archivo .dmg, ¿qué acción principal debes realizar?",
+    "respuestas": [
+     "Arrastrar el ícono a 'Aplicaciones'",
+     "Dar doble clic al ícono",
+     "Reiniciar la Mac"
+    ],
+    "correcta": "Arrastrar el ícono a 'Aplicaciones'"
+   },
+   {
+    "pregunta": "¿Cómo se llama la carpeta donde se guardan los programas en Mac?",
+    "respuestas": [
+     "Applications (Aplicaciones)",
+     "Program Files",
+     "Mis Documentos"
+    ],
+    "correcta": "Applications (Aplicaciones)"
+   },
+   {
+    "pregunta": "Si el sistema bloquea la apertura por seguridad, ¿qué debes hacer?",
+    "respuestas": [
+     "Clic derecho > Abrir",
+     "Borrar el archivo",
+     "Desconectar internet"
+    ],
+    "correcta": "Clic derecho > Abrir"
+   },
+   {
+    "pregunta": "¿Qué mensaje suele mostrar macOS la primera vez que abres Krita?",
+    "respuestas": [
+     "¿Seguro que quieres abrirlo?",
+     "Error de sistema",
+     "Virus detectado"
+    ],
+    "correcta": "¿Seguro que quieres abrirlo?"
+   },
+   {
+    "pregunta": "Para 'desinstalar' Krita en Mac, ¿qué se hace usualmente?",
+    "respuestas": [
+     "Mover el ícono a la Papelera",
+     "Usar un desinstalador .exe",
+     "Formatear el disco"
+    ],
+    "correcta": "Mover el ícono a la Papelera"
+   },
+   {
+    "pregunta": "¿Cómo se expulsa el instalador .dmg una vez terminado?",
+    "respuestas": [
+     "Arrastrándolo a la papelera/eject",
+     "Reiniciando",
+     "Dejándolo ahí para siempre"
+    ],
+    "correcta": "Arrastrándolo a la papelera/eject"
+   },
+   {
+    "pregunta": "¿Dónde se encuentra la barra de menú de Krita en Mac?",
+    "respuestas": [
+     "En el tope de la pantalla",
+     "Dentro de la ventana",
+     "Al pie de página"
+    ],
+    "correcta": "En el tope de la pantalla"
+   },
+   {
+    "pregunta": "¿Qué permiso podría pedir Krita si usas una tableta gráfica?",
+    "respuestas": [
+     "Accesibilidad / Entrada",
+     "Acceso a la cámara",
+     "Acceso a contactos"
+    ],
+    "correcta": "Accesibilidad / Entrada"
+   },
+   {
+    "pregunta": "¿Es necesario pagar en la App Store para tener Krita?",
+    "respuestas": [
+     "No, es gratis desde la web",
+     "Sí, es obligatorio",
+     "Solo los domingos"
+    ],
+    "correcta": "No, es gratis desde la web"
+   },
+   {
+    "pregunta": "¿Qué combinación de teclas usas en Mac para 'Deshacer'?",
+    "respuestas": [
+     "Comando (Cmd) + Z",
+     "Control + Z",
+     "Alt + F4"
+    ],
+    "correcta": "Comando (Cmd) + Z"
+   },
+   {
+    "pregunta": "¿Cómo verificas que descargaste la versión correcta?",
+    "respuestas": [
+     "En 'Acerca de este Mac'",
+     "Adivinando",
+     "Mirando el color de la laptop"
+    ],
+    "correcta": "En 'Acerca de este Mac'"
+   },
+   {
+    "pregunta": "Si descargas Krita en un iPad, ¿desde dónde se hace?",
+    "respuestas": [
+     "App Store",
+     "Archivo .dmg",
+     "Google Play"
+    ],
+    "correcta": "App Store"
+   },
+   {
+    "pregunta": "¿Qué significa que el icono de Krita tenga un símbolo de 'prohibido'?",
+    "respuestas": [
+     "Versión incompatible con tu macOS",
+     "Que está prohibido dibujar",
+     "Que es la versión premium"
+    ],
+    "correcta": "Versión incompatible con tu macOS"
+   },
+   {
+    "pregunta": "¿Necesitas instalar 'drivers' extra para usar el mouse en Krita?",
+    "respuestas": [
+     "No, funciona nativo",
+     "Sí, siempre",
+     "Solo si es marca Apple"
+    ],
+    "correcta": "No, funciona nativo"
+   }
+  ],
+  "historia": [
+   {
+    "pregunta": "¿A qué tribu de Israel pertenecía la familia de Sansón?",
+    "respuestas": [
+     "Tribu de Dan",
+     "Tribu de Judá",
+     "Tribu de Leví"
+    ],
+    "correcta": "Tribu de Dan"
+   },
+   {
+    "pregunta": "¿Qué le dijo el ángel a la madre de Sansón que no debía beber?",
+    "respuestas": [
+     "Vino ni sidra",
+     "Agua del río",
+     "Leche de cabra"
+    ],
+    "correcta": "Vino ni sidra"
+   },
+   {
+    "pregunta": "¿Cristo murió por el mundo para que pudieran?",
+    "respuestas": [
+     "Irse de vacaciones",
+     "Comer papas fritas",
+     "Ser salvos"
+    ],
+    "correcta": "Ser salvos"
+   },
+   {
+    "pregunta": "¿Qué acertijo propuso Sansón: 'Del devorador salió comida... '?",
+    "respuestas": [
+     "...y del fuerte salió dulzura",
+     "...y del león salió miel",
+     "...y de la muerte salió vida"
+    ],
+    "correcta": "...y del fuerte salió dulzura"
+   },
+   {
+    "pregunta": "¿Cómo consiguieron los filisteos la respuesta del acertijo?",
+    "respuestas": [
+     "Amenazando a su esposa",
+     "Adivinando",
+     "Espiando a Sansón"
+    ],
+    "correcta": "Amenazando a su esposa"
+   },
+   {
+    "pregunta": "¿Qué objeto de la ciudad de Gaza arrancó y cargó Sansón en sus hombros?",
+    "respuestas": [
+     "Las puertas de la ciudad",
+     "El trono del rey",
+     "La estatua de Dagón"
+    ],
+    "correcta": "Las puertas de la ciudad"
+   },
+   {
+    "pregunta": "¿Cuál fue el PRIMER engaño de Dalila para atar a Sansón?",
+    "respuestas": [
+     "7 mimbres verdes",
+     "Cadenas de bronce",
+     "Cuerdas de lino"
+    ],
+    "correcta": "7 mimbres verdes"
+   },
+   {
+    "pregunta": "¿Cuál fue el SEGUNDO intento de Dalila para debilitarlo?",
+    "respuestas": [
+     "Usar cuerdas nuevas",
+     "Cortarle una oreja",
+     "Darle veneno"
+    ],
+    "correcta": "Usar cuerdas nuevas"
+   },
+   {
+    "pregunta": "¿Cuál fue el TERCER intento fallido de Dalila?",
+    "respuestas": [
+     "Tejer su cabello en el telar",
+     "Esconder sus sandalias",
+     "Atarlo con cadenas"
+    ],
+    "correcta": "Tejer su cabello en el telar"
+   },
+   {
+    "pregunta": "¿Cuánto dinero ofrecieron los príncipes filisteos a Dalila por traicionarlo?",
+    "respuestas": [
+     "1100 piezas de plata c/u",
+     "30 monedas de plata",
+     "100 talentos de oro"
+    ],
+    "correcta": "1100 piezas de plata c/u"
+   },
+   {
+    "pregunta": "Después de matar a los filisteos con la quijada, ¿qué pidió Sansón a Dios?",
+    "respuestas": [
+     "Agua para su sed",
+     "Comida",
+     "Un ejército"
+    ],
+    "correcta": "Agua para su sed"
+   },
+   {
+    "pregunta": "¿Cómo se llamó el lugar donde brotó el agua milagrosamente?",
+    "respuestas": [
+     "Fuente del que clama",
+     "Pozo de Jacob",
+     "Río Jordán"
+    ],
+    "correcta": "Fuente del que clama"
+   },
+   {
+    "pregunta": "¿Quién guió a Sansón hacia las columnas del templo cuando estaba ciego?",
+    "respuestas": [
+     "Un joven lazarillo",
+     "Un guardia filisteo",
+     "Dalila"
+    ],
+    "correcta": "Un joven lazarillo"
+   },
+   {
+    "pregunta": "¿Junto a quién fue sepultado Sansón tras su muerte?",
+    "respuestas": [
+     "Su padre Manoa",
+     "Su esposa",
+     "El profeta Samuel"
+    ],
+    "correcta": "Su padre Manoa"
+   },
+   {
+    "pregunta": "¿Qué frase gritó Sansón antes de derribar el templo?",
+    "respuestas": [
+     "Muera yo con los filisteos",
+     "Dios, véngame",
+     "Soy libre al fin"
+    ],
+    "correcta": "Muera yo con los filisteos"
+   },
+   {
+    "pregunta": "Sansón juzgó a Israel en tiempos de los...",
+    "respuestas": [
+     "Filisteos",
+     "Egipcios",
+     "Babilonios"
+    ],
+    "correcta": "Filisteos"
+   }
+  ]
+ },
+ "proporcion": {
+  "leccion": 4,
+  "historia": 1
+ },
+ "aciertos_para_ganar": 5,
+ "vidas": 3,
+ "salir_url": "https://www.escuelaasomatoi.com/viewerpasoscartoon/paso-4-leccion-2-curso-dibujo-cartoon",
+ "skin": "vinedos"
+}

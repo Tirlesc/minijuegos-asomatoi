@@ -1,0 +1,559 @@
+{
+ "version": 1,
+ "leccion": "L011",
+ "titulo": "Repaso Lección 11 · Cuenta gotas y cubeta de color en Krita",
+ "bancos": {
+  "leccion": [
+   {
+    "pregunta": "¿Cómo se llama en español la herramienta «Picked Color»?",
+    "respuestas": [
+     "Cuentagotas o gotero",
+     "Cubeta de relleno de color",
+     "Pincel mágico de colores"
+    ],
+    "correcta": "Cuentagotas o gotero"
+   },
+   {
+    "pregunta": "¿Para qué sirve el cuentagotas en Krita?",
+    "respuestas": [
+     "Borrar partes del dibujo con cuidado",
+     "Tomar una muestra de color",
+     "Rellenar con color un área cerrada"
+    ],
+    "correcta": "Tomar una muestra de color"
+   },
+   {
+    "pregunta": "¿Cómo se llama en español la herramienta «Fill Color»?",
+    "respuestas": [
+     "Borrador de color",
+     "Cuentagotas",
+     "Cubeta de color"
+    ],
+    "correcta": "Cubeta de color"
+   },
+   {
+    "pregunta": "¿Para qué sirve la cubeta de color?",
+    "respuestas": [
+     "Tomar prestado un color del lienzo",
+     "Rellenar con color áreas cerradas",
+     "Crear una capa nueva de vectores"
+    ],
+    "correcta": "Rellenar con color áreas cerradas"
+   },
+   {
+    "pregunta": "Si la línea del dibujo está abierta y usas la cubeta, ¿qué pasa?",
+    "respuestas": [
+     "El dibujo completo se borra de golpe",
+     "No ocurre nada en el dibujo ni en el color",
+     "El color se sale por el lienzo"
+    ],
+    "correcta": "El color se sale por el lienzo"
+   },
+   {
+    "pregunta": "¿En qué tipo de capa funciona la cubeta de color?",
+    "respuestas": [
+     "En capas de texto",
+     "En capas de pintura",
+     "En capas de vectores"
+    ],
+    "correcta": "En capas de pintura"
+   },
+   {
+    "pregunta": "¿Qué aparece si usas la cubeta en una capa de vectores?",
+    "respuestas": [
+     "El relleno sale perfecto en la capa vectorial",
+     "Se crea otra capa nueva de manera automática",
+     "Una leyenda que dice que no se puede"
+    ],
+    "correcta": "Una leyenda que dice que no se puede"
+   },
+   {
+    "pregunta": "Para rellenar bien un dibujo con la cubeta, ¿cómo debe estar la línea?",
+    "respuestas": [
+     "Completamente cerrada",
+     "Con huecos muy pequeños",
+     "Muy gruesa y oscura"
+    ],
+    "correcta": "Completamente cerrada"
+   },
+   {
+    "pregunta": "¿Con qué herramientas se puede combinar la cubeta?",
+    "respuestas": [
+     "Con la herramienta de texto y notas",
+     "Con las herramientas de selección",
+     "Con el zoom y el giro del lienzo"
+    ],
+    "correcta": "Con las herramientas de selección"
+   },
+   {
+    "pregunta": "¿De qué color se rellenó la elipse en el ejemplo del video?",
+    "respuestas": [
+     "Verde limón",
+     "Magenta",
+     "Negro"
+    ],
+    "correcta": "Magenta"
+   },
+   {
+    "pregunta": "¿Qué herramienta se usó a propósito para dejar una línea abierta?",
+    "respuestas": [
+     "El cuentagotas",
+     "El borrador",
+     "La cubeta"
+    ],
+    "correcta": "El borrador"
+   },
+   {
+    "pregunta": "Al dar clic con el cuentagotas sobre un color, ¿qué cambia?",
+    "respuestas": [
+     "El tamaño y la forma de la brocha",
+     "El nombre de la capa activa",
+     "El color en el círculo cromático"
+    ],
+    "correcta": "El color en el círculo cromático"
+   },
+   {
+    "pregunta": "¿Cómo tomaste el celeste para rellenar el dibujo del personaje?",
+    "respuestas": [
+     "Con el borrador",
+     "Con la herramienta de zoom",
+     "Con el cuentagotas"
+    ],
+    "correcta": "Con el cuentagotas"
+   },
+   {
+    "pregunta": "¿De dónde puede tomar un color el cuentagotas?",
+    "respuestas": [
+     "Solo de la paleta de Krita",
+     "De una paleta, una referencia o tu dibujo",
+     "Solo de una foto del celular"
+    ],
+    "correcta": "De una paleta, una referencia o tu dibujo"
+   },
+   {
+    "pregunta": "Antes de rellenar la cabeza de un personaje, ¿qué debes asegurar?",
+    "respuestas": [
+     "Que su línea esté completamente cerrada",
+     "Que el lienzo esté en blanco",
+     "Que la capa sea de vectores"
+    ],
+    "correcta": "Que su línea esté completamente cerrada"
+   },
+   {
+    "pregunta": "¿Cuáles dos herramientas se estudian en la Lección 11?",
+    "respuestas": [
+     "Lazo y texto",
+     "Cuentagotas y cubeta de color",
+     "Borrador y pincel"
+    ],
+    "correcta": "Cuentagotas y cubeta de color"
+   },
+   {
+    "pregunta": "¿Para qué se creó una capa de vectores en el ejemplo?",
+    "respuestas": [
+     "Para pintar más rápido",
+     "Para mostrar que la cubeta no funciona ahí",
+     "Para guardar el dibujo"
+    ],
+    "correcta": "Para mostrar que la cubeta no funciona ahí"
+   },
+   {
+    "pregunta": "Si el color se salió porque la línea estaba abierta, ¿qué conviene hacer?",
+    "respuestas": [
+     "Cerrar la línea del dibujo y rellenar otra vez",
+     "Cambiar a una capa de vectores",
+     "Usar un lienzo más grande"
+    ],
+    "correcta": "Cerrar la línea del dibujo y rellenar otra vez"
+   },
+   {
+    "pregunta": "Con la elipse: ¿qué haces después de generarla con la selección?",
+    "respuestas": [
+     "Cerrar el programa",
+     "Cambiar a la cubeta y dar clic dentro",
+     "Borrarla con el borrador"
+    ],
+    "correcta": "Cambiar a la cubeta y dar clic dentro"
+   },
+   {
+    "pregunta": "¿Qué herramienta se usó para cerrar el dibujo del personaje?",
+    "respuestas": [
+     "El cuentagotas",
+     "La brocha de mano libre",
+     "La herramienta de zoom"
+    ],
+    "correcta": "La brocha de mano libre"
+   },
+   {
+    "pregunta": "¿Qué combinación te ayuda a pintar personajes más rápido?",
+    "respuestas": [
+     "Cuentagotas con cubeta",
+     "Texto con vectores",
+     "Borrador con zoom"
+    ],
+    "correcta": "Cuentagotas con cubeta"
+   },
+   {
+    "pregunta": "¿Cuál es el nombre en inglés de la cubeta de color?",
+    "respuestas": [
+     "Paint Layer",
+     "Fill Color",
+     "Picked Color"
+    ],
+    "correcta": "Fill Color"
+   },
+   {
+    "pregunta": "¿Cuál es el nombre en inglés del cuentagotas?",
+    "respuestas": [
+     "Picked Color",
+     "Fill Color",
+     "Vector Layer"
+    ],
+    "correcta": "Picked Color"
+   },
+   {
+    "pregunta": "¿Qué ventaja tiene usar la cubeta junto con una selección?",
+    "respuestas": [
+     "Se borra el fondo",
+     "Rellenas solo dentro de la forma seleccionada",
+     "El dibujo se vuelve vectorial"
+    ],
+    "correcta": "Rellenas solo dentro de la forma seleccionada"
+   },
+   {
+    "pregunta": "¿Dónde está el botón para crear una capa nueva en Krita?",
+    "respuestas": [
+     "En la parte inferior de las herramientas de capa",
+     "En el menú de colores",
+     "En la caja de pinceles"
+    ],
+    "correcta": "En la parte inferior de las herramientas de capa"
+   },
+   {
+    "pregunta": "¿Qué causa que el color «se escape» al rellenar?",
+    "respuestas": [
+     "Una capa de pintura",
+     "Usar el color magenta",
+     "Una línea discontinua o abierta"
+    ],
+    "correcta": "Una línea discontinua o abierta"
+   },
+   {
+    "pregunta": "¿Qué es un dibujo cerrado?",
+    "respuestas": [
+     "Uno sin ningún color",
+     "Uno cuya línea no tiene huecos",
+     "Uno guardado en el disco"
+    ],
+    "correcta": "Uno cuya línea no tiene huecos"
+   },
+   {
+    "pregunta": "¿Qué hace el borrador en la demostración del video?",
+    "respuestas": [
+     "Cambia el color de relleno",
+     "Abre un hueco en la línea",
+     "Cierra la línea"
+    ],
+    "correcta": "Abre un hueco en la línea"
+   },
+   {
+    "pregunta": "Si el cuentagotas tomó celeste y luego usas la cubeta, ¿de qué color es el relleno?",
+    "respuestas": [
+     "Celeste",
+     "Verde",
+     "Magenta"
+    ],
+    "correcta": "Celeste"
+   },
+   {
+    "pregunta": "Según el paso 2, ¿con qué trabaja bien la cubeta?",
+    "respuestas": [
+     "Con cualquier línea abierta",
+     "Solo con vectores",
+     "Con líneas o figuras cerradas"
+    ],
+    "correcta": "Con líneas o figuras cerradas"
+   }
+  ],
+  "historia": [
+   {
+    "pregunta": "¿De qué tribu de Israel era Sansón?",
+    "respuestas": [
+     "De la tribu de Dan",
+     "De la tribu de Benjamín",
+     "De la tribu de Judá"
+    ],
+    "correcta": "De la tribu de Dan"
+   },
+   {
+    "pregunta": "¿Cómo se llamaba el padre de Sansón?",
+    "respuestas": [
+     "Manoa",
+     "Elí",
+     "Elcana"
+    ],
+    "correcta": "Manoa"
+   },
+   {
+    "pregunta": "¿Quién anunció que nacería Sansón?",
+    "respuestas": [
+     "Un rey de Israel",
+     "Un profeta del templo",
+     "El ángel del Señor"
+    ],
+    "correcta": "El ángel del Señor"
+   },
+   {
+    "pregunta": "¿A quién se le apareció primero el ángel?",
+    "respuestas": [
+     "A un pastor",
+     "A los filisteos",
+     "A la esposa de Manoa"
+    ],
+    "correcta": "A la esposa de Manoa"
+   },
+   {
+    "pregunta": "¿Qué no debía beber la madre de Sansón?",
+    "respuestas": [
+     "Vino ni sidra",
+     "Leche de cabra",
+     "Agua del pozo"
+    ],
+    "correcta": "Vino ni sidra"
+   },
+   {
+    "pregunta": "¿Qué tipo de consagrado sería Sansón desde el vientre?",
+    "respuestas": [
+     "Nazareo",
+     "Levita",
+     "Escriba"
+    ],
+    "correcta": "Nazareo"
+   },
+   {
+    "pregunta": "¿Qué nunca debía pasar por la cabeza de Sansón?",
+    "respuestas": [
+     "El sombrero",
+     "La navaja",
+     "El agua"
+    ],
+    "correcta": "La navaja"
+   },
+   {
+    "pregunta": "¿Cuántos años oprimieron los filisteos a Israel antes de Sansón?",
+    "respuestas": [
+     "Siete años",
+     "Cuarenta años",
+     "Veinte años"
+    ],
+    "correcta": "Cuarenta años"
+   },
+   {
+    "pregunta": "¿Cómo describió la esposa de Manoa al varón de Dios?",
+    "respuestas": [
+     "Como un mercader",
+     "Como un ángel de Dios, temible",
+     "Como un soldado herido"
+    ],
+    "correcta": "Como un ángel de Dios, temible"
+   },
+   {
+    "pregunta": "¿En qué pueblo vio Sansón a la mujer filistea que le gustó?",
+    "respuestas": [
+     "Timna",
+     "Jericó",
+     "Belén"
+    ],
+    "correcta": "Timna"
+   },
+   {
+    "pregunta": "¿Qué animal mató Sansón con las manos en las viñas de Timna?",
+    "respuestas": [
+     "Un lobo",
+     "Un oso",
+     "Un león joven"
+    ],
+    "correcta": "Un león joven"
+   },
+   {
+    "pregunta": "¿Qué encontró Sansón después en el cuerpo del león?",
+    "respuestas": [
+     "Una moneda de plata",
+     "Un anillo",
+     "Un enjambre de abejas y miel"
+    ],
+    "correcta": "Un enjambre de abejas y miel"
+   },
+   {
+    "pregunta": "¿Cuántos días duró la fiesta de bodas?",
+    "respuestas": [
+     "Un día",
+     "Siete días",
+     "Cuarenta días"
+    ],
+    "correcta": "Siete días"
+   },
+   {
+    "pregunta": "¿Qué propuso Sansón a los invitados de la boda?",
+    "respuestas": [
+     "Un banquete extra",
+     "Una carrera",
+     "Un acertijo"
+    ],
+    "correcta": "Un acertijo"
+   },
+   {
+    "pregunta": "¿Cuántas mudas de vestidos y túnicas apostó Sansón?",
+    "respuestas": [
+     "Treinta",
+     "Diez",
+     "Cien"
+    ],
+    "correcta": "Treinta"
+   },
+   {
+    "pregunta": "¿Cómo se enteraron los filisteos de la respuesta al acertijo?",
+    "respuestas": [
+     "Se la dijo un ángel",
+     "La leyeron en un rollo",
+     "Por su esposa, que lloró e insistió"
+    ],
+    "correcta": "Por su esposa, que lloró e insistió"
+   },
+   {
+    "pregunta": "¿En qué ciudad mató Sansón a treinta hombres para pagar la apuesta?",
+    "respuestas": [
+     "Jerusalén",
+     "Hebrón",
+     "Ascalón"
+    ],
+    "correcta": "Ascalón"
+   },
+   {
+    "pregunta": "¿Qué ató Sansón a las colas de las zorras?",
+    "respuestas": [
+     "Campanas",
+     "Cuerdas",
+     "Antorchas"
+    ],
+    "correcta": "Antorchas"
+   },
+   {
+    "pregunta": "¿Cuántas zorras atrapó Sansón?",
+    "respuestas": [
+     "Tres",
+     "Trescientas",
+     "Treinta"
+    ],
+    "correcta": "Trescientas"
+   },
+   {
+    "pregunta": "¿Con qué mató Sansón a mil filisteos?",
+    "respuestas": [
+     "Con una quijada de asno",
+     "Con una espada",
+     "Con una lanza"
+    ],
+    "correcta": "Con una quijada de asno"
+   },
+   {
+    "pregunta": "¿Cuántos años juzgó Sansón a Israel?",
+    "respuestas": [
+     "Cuarenta años",
+     "Diez años",
+     "Veinte años"
+    ],
+    "correcta": "Veinte años"
+   },
+   {
+    "pregunta": "¿A qué ciudad filistea fue Sansón y se quedó una noche?",
+    "respuestas": [
+     "Belén",
+     "Gaza",
+     "Nínive"
+    ],
+    "correcta": "Gaza"
+   },
+   {
+    "pregunta": "¿Qué cargó Sansón desde Gaza hasta la cima de un monte?",
+    "respuestas": [
+     "Un trono",
+     "Las puertas de la ciudad",
+     "Un barco"
+    ],
+    "correcta": "Las puertas de la ciudad"
+   },
+   {
+    "pregunta": "¿En qué valle vivía Dalila?",
+    "respuestas": [
+     "En el valle de Josafat",
+     "En el valle de Sorec",
+     "En el valle de Elá"
+    ],
+    "correcta": "En el valle de Sorec"
+   },
+   {
+    "pregunta": "¿Cuánta plata ofreció cada príncipe filisteo a Dalila?",
+    "respuestas": [
+     "10 siclos de plata",
+     "1.100 siclos de plata",
+     "Una bolsa de trigo"
+    ],
+    "correcta": "1.100 siclos de plata"
+   },
+   {
+    "pregunta": "¿Con qué dijo Sansón primero que lo podían atar?",
+    "respuestas": [
+     "Con siete mimbres verdes",
+     "Con una red de pescar",
+     "Con cadenas de hierro"
+    ],
+    "correcta": "Con siete mimbres verdes"
+   },
+   {
+    "pregunta": "¿Con qué dijo Sansón después que lo podían atar?",
+    "respuestas": [
+     "Con cuerdas nuevas",
+     "Con ramas de olivo",
+     "Con cinturones viejos"
+    ],
+    "correcta": "Con cuerdas nuevas"
+   },
+   {
+    "pregunta": "¿Qué pasó con Dalila de tanto insistir a Sansón?",
+    "respuestas": [
+     "Su alma se angustió hasta la muerte",
+     "Se enfermó de fiebre",
+     "Se fue a otra ciudad"
+    ],
+    "correcta": "Su alma se angustió hasta la muerte"
+   },
+   {
+    "pregunta": "¿Cuántas trenzas tenía Sansón en la cabeza?",
+    "respuestas": [
+     "Tres",
+     "Siete",
+     "Doce"
+    ],
+    "correcta": "Siete"
+   },
+   {
+    "pregunta": "¿Quién fue la madre de Sansón en la historia de su nacimiento?",
+    "respuestas": [
+     "La reina de Saba",
+     "Una mujer sin hijos, esposa de Manoa",
+     "Una viuda de Sarepta"
+    ],
+    "correcta": "Una mujer sin hijos, esposa de Manoa"
+   }
+  ]
+ },
+ "proporcion": {
+  "leccion": 4,
+  "historia": 1
+ },
+ "aciertos_para_ganar": 5,
+ "vidas": 3,
+ "salir_url": "https://www.escuelaasomatoi.com/viewerpasoscartoon/paso-5-leccion-11-curso-dibujo-cartoon",
+ "skin": "murallas"
+}

@@ -1,0 +1,235 @@
+{
+ "version": 1,
+ "leccion": "L07",
+ "titulo": "Repaso Lección 07 · Capas en Krita",
+ "bancos": {
+  "leccion": [
+   {
+    "pregunta": "¿Con qué se comparan las capas en Krita?",
+    "respuestas": [
+     "Con hojas de papel opaco muy gruesas",
+     "Con filminas transparentes",
+     "Con lienzos de tela sin pintar"
+    ],
+    "correcta": "Con filminas transparentes"
+   },
+   {
+    "pregunta": "En la animación antigua, ¿dónde se pintaban a mano los personajes?",
+    "respuestas": [
+     "En acetatos o filminas",
+     "En láminas de madera pulida",
+     "En pantallas digitales modernas"
+    ],
+    "correcta": "En acetatos o filminas"
+   },
+   {
+    "pregunta": "¿Qué nombre en inglés reciben las capas en los programas de dibujo?",
+    "respuestas": [
+     "Frames",
+     "Brushes",
+     "Layers"
+    ],
+    "correcta": "Layers"
+   },
+   {
+    "pregunta": "¿En qué parte de la interfaz de Krita se alojan las capas?",
+    "respuestas": [
+     "En una sección al lado derecho",
+     "En la barra de herramientas de abajo",
+     "En el menú de archivo, arriba"
+    ],
+    "correcta": "En una sección al lado derecho"
+   },
+   {
+    "pregunta": "¿Cómo se llama la capa que está activa al empezar a dibujar?",
+    "respuestas": [
+     "Capa de fondo de color",
+     "Capa de pintura 1",
+     "Capa nueva sin nombre"
+    ],
+    "correcta": "Capa de pintura 1"
+   },
+   {
+    "pregunta": "¿Para qué sirve la función de opacidad de una capa?",
+    "respuestas": [
+     "Para cambiar el tamaño del lienzo",
+     "Para borrar toda la capa",
+     "Para hacer el trazo más transparente"
+    ],
+    "correcta": "Para hacer el trazo más transparente"
+   },
+   {
+    "pregunta": "Si disminuyes la opacidad de una capa, el trazo...",
+    "respuestas": [
+     "se vuelve más transparente",
+     "se vuelve mucho más grueso",
+     "cambia de color por completo"
+    ],
+    "correcta": "se vuelve más transparente"
+   },
+   {
+    "pregunta": "¿Para qué se usan bocetos con opacidad baja en una capa?",
+    "respuestas": [
+     "Para borrar la capa de abajo",
+     "Para dibujar la línea final aparte",
+     "Para cambiar el fondo del lienzo"
+    ],
+    "correcta": "Para dibujar la línea final aparte"
+   },
+   {
+    "pregunta": "Cuando creas una capa nueva, ¿dónde se coloca respecto a la anterior?",
+    "respuestas": [
+     "Debajo de la anterior",
+     "Reemplaza a la anterior",
+     "Sobre la anterior"
+    ],
+    "correcta": "Sobre la anterior"
+   },
+   {
+    "pregunta": "¿Qué ícono sirve para mostrar u ocultar el contenido de una capa?",
+    "respuestas": [
+     "El ojito",
+     "El candado",
+     "La cruz"
+    ],
+    "correcta": "El ojito"
+   },
+   {
+    "pregunta": "¿Qué ventaja tiene dibujar en capas separadas?",
+    "respuestas": [
+     "Que los trazos se mezclan siempre",
+     "Que cada capa es independiente",
+     "Que ya no se pueden editar nunca"
+    ],
+    "correcta": "Que cada capa es independiente"
+   },
+   {
+    "pregunta": "Además de filminas, ¿con qué otro concepto se comparan las capas?",
+    "respuestas": [
+     "Con piedras apiladas en una pared",
+     "Con un libro cerrado",
+     "Con hojas transparentes"
+    ],
+    "correcta": "Con hojas transparentes"
+   },
+   {
+    "pregunta": "¿Cómo se mueve una capa para reposicionarla?",
+    "respuestas": [
+     "Con clic, sostener y arrastrar",
+     "Con doble clic sobre el ojito",
+     "Borrándola y creándola otra vez"
+    ],
+    "correcta": "Con clic, sostener y arrastrar"
+   },
+   {
+    "pregunta": "Si llevas hasta el fondo la capa de círculos verdes, los círculos quedan...",
+    "respuestas": [
+     "delante de todas las capas",
+     "detrás de las demás capas",
+     "borrados del dibujo"
+    ],
+    "correcta": "detrás de las demás capas"
+   },
+   {
+    "pregunta": "¿Cómo se pone una capa en medio de otras dos?",
+    "respuestas": [
+     "Cambiando su opacidad al mínimo",
+     "Borrando las otras dos capas",
+     "Arrastrándola entre ellas"
+    ],
+    "correcta": "Arrastrándola entre ellas"
+   },
+   {
+    "pregunta": "¿Qué pasa al activar y desactivar el ojito de una capa?",
+    "respuestas": [
+     "Se muestra u oculta su dibujo",
+     "Se borra para siempre su dibujo",
+     "Cambia de color todo su trazo"
+    ],
+    "correcta": "Se muestra u oculta su dibujo"
+   }
+  ],
+  "historia": [
+   {
+    "pregunta": "¿Cómo se llamaba el padre de Sansón?",
+    "respuestas": [
+     "Elí",
+     "Manoa",
+     "Gedeón"
+    ],
+    "correcta": "Manoa"
+   },
+   {
+    "pregunta": "¿Qué voto tenía Sansón desde su nacimiento?",
+    "respuestas": [
+     "Ser nazareo y no cortarse el cabello",
+     "Vivir solo en el desierto",
+     "No tomar nunca agua del río"
+    ],
+    "correcta": "Ser nazareo y no cortarse el cabello"
+   },
+   {
+    "pregunta": "¿A qué animal mató Sansón con sus manos cerca de Timnat?",
+    "respuestas": [
+     "A un oso muy grande",
+     "A un lobo del desierto",
+     "A un león joven"
+    ],
+    "correcta": "A un león joven"
+   },
+   {
+    "pregunta": "¿Qué encontró Sansón después en el cuerpo del león?",
+    "respuestas": [
+     "Un panal de miel",
+     "Un cofre de monedas",
+     "Una espada"
+    ],
+    "correcta": "Un panal de miel"
+   },
+   {
+    "pregunta": "¿Con qué arma mató Sansón a mil filisteos?",
+    "respuestas": [
+     "Con una lanza de bronce",
+     "Con una quijada de asno",
+     "Con una espada larga"
+    ],
+    "correcta": "Con una quijada de asno"
+   },
+   {
+    "pregunta": "¿De qué ciudad filistea se llevó Sansón las puertas?",
+    "respuestas": [
+     "De Jericó",
+     "De Belén",
+     "De Gaza"
+    ],
+    "correcta": "De Gaza"
+   },
+   {
+    "pregunta": "¿Cuánta plata ofreció cada príncipe filisteo a Dalila por entregar a Sansón?",
+    "respuestas": [
+     "Mil cien siclos de plata",
+     "Cien monedas de oro puro",
+     "Diez talentos de bronce"
+    ],
+    "correcta": "Mil cien siclos de plata"
+   },
+   {
+    "pregunta": "¿Qué hizo Sansón al final en el templo de Dagón?",
+    "respuestas": [
+     "Se escondió detrás de una columna",
+     "Empujó las columnas del centro",
+     "Rompió las cadenas y huyó"
+    ],
+    "correcta": "Empujó las columnas del centro"
+   }
+  ]
+ },
+ "proporcion": {
+  "leccion": 4,
+  "historia": 1
+ },
+ "aciertos_para_ganar": 5,
+ "vidas": 3,
+ "salir_url": "https://www.escuelaasomatoi.com/viewerpasoscartoon/paso-5-leccion-7-curso-dibujo-cartoon",
+ "skin": "ciudad"
+}
